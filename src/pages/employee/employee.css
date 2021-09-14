@@ -1,0 +1,90 @@
+.employee {
+  flex: 4;
+  padding: 20px;
+}
+
+.employeeTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.employeeAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.employeeContainer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.employeeShow {
+  flex: 1;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.employeeUpdate {
+  flex: 2;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+
+.employeeShowUserTitle {
+  font-weight: 300;
+}
+
+.employeeShowBottom{
+    margin-top: 20px;
+}
+
+.userUpdateTitle{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.employeerUpdateForm{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.employeeUpdateItem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.employeeUpdateItem>label{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.employeeUpdateInput{
+    border: none;
+    width: 250px;
+    height: 30px;
+    border-bottom: 1px solid gray;
+}
+
+
+.employeeUpdateButton{
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+    font-weight: 600;
+}
