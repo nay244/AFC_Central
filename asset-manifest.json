@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/afc_central/static/css/main.7732c095.chunk.css",
+    "main.js": "/afc_central/static/js/main.2b283e43.chunk.js",
+    "main.js.map": "/afc_central/static/js/main.2b283e43.chunk.js.map",
+    "runtime-main.js": "/afc_central/static/js/runtime-main.207f4db6.js",
+    "runtime-main.js.map": "/afc_central/static/js/runtime-main.207f4db6.js.map",
+    "static/js/2.2465a4d6.chunk.js": "/afc_central/static/js/2.2465a4d6.chunk.js",
+    "static/js/2.2465a4d6.chunk.js.map": "/afc_central/static/js/2.2465a4d6.chunk.js.map",
+    "index.html": "/afc_central/index.html",
+    "static/css/main.7732c095.chunk.css.map": "/afc_central/static/css/main.7732c095.chunk.css.map",
+    "static/js/2.2465a4d6.chunk.js.LICENSE.txt": "/afc_central/static/js/2.2465a4d6.chunk.js.LICENSE.txt",
+    "static/media/California-Roll-SP.a069e807.jpg": "/afc_central/static/media/California-Roll-SP.a069e807.jpg",
+    "static/media/Chef-Sampler-A.9658b362.jpg": "/afc_central/static/media/Chef-Sampler-A.9658b362.jpg",
+    "static/media/Cream-Cheese-Roll-SP.7615a46a.jpg": "/afc_central/static/media/Cream-Cheese-Roll-SP.7615a46a.jpg",
+    "static/media/Crunchy-Shrimp-Tempura-Roll.960f9df9.jpg": "/afc_central/static/media/Crunchy-Shrimp-Tempura-Roll.960f9df9.jpg",
+    "static/media/Spicy-Roll-SP.67708f3a.jpg": "/afc_central/static/media/Spicy-Roll-SP.67708f3a.jpg",
+    "static/media/Supreme-Orange-Chicken-Bowl.ba4509de.jpg": "/afc_central/static/media/Supreme-Orange-Chicken-Bowl.ba4509de.jpg",
+    "static/media/Supreme-Teriyaki-Chicken-Bowl.fa9794df.jpg": "/afc_central/static/media/Supreme-Teriyaki-Chicken-Bowl.fa9794df.jpg",
+    "static/media/Vegetable-Combo.355a7101.jpg": "/afc_central/static/media/Vegetable-Combo.355a7101.jpg",
+    "static/media/afc_logo.5eab56f1.png": "/afc_central/static/media/afc_logo.5eab56f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.207f4db6.js",
+    "static/js/2.2465a4d6.chunk.js",
+    "static/css/main.7732c095.chunk.css",
+    "static/js/main.2b283e43.chunk.js"
+  ]
+}
